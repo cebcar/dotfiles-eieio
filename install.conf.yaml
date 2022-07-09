@@ -1,5 +1,5 @@
 - defaults:
-     link:
+    link:
       relink: true
 
 - clean: ['-']
@@ -12,7 +12,7 @@
 
 - create:
     - ~/Work
-    - /hey/you/guys
+    - ~/hey/you/guys
 
 #- shell:
 #    - [git submodule updaate --init --recursive, Installing submodules]
