@@ -6,7 +6,7 @@ learning about dotfiles @ [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz)
 - Terminal preferences
 - changed shell to zsh
 - Dock preferences
-- Mission Control Preference (don't rearrange spaces)
+- Mission Control Preference (do not rearrange spaces)
 - Finder Show Path Bar
 - Trackpad (Three Finger Drag and Tap to Click)
 - .zshrc
@@ -16,5 +16,3 @@ learning about dotfiles @ [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz)
 ### TODO added by Carol
 - use AppleWatch to unlock Mac (General)
 - reduce brightness (Displays)
-
-

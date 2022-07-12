@@ -14,7 +14,7 @@ alias ls='ls -lAFh'
 PROMPT='
 %1~ %L %# '
 
-RPROMPT='%*' 
+RPROMPT='%*'
 
 # Add Locations to $PATH Variable
 
