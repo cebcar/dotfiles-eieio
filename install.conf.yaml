@@ -2,7 +2,7 @@
     link:
       relink: true
 
-- clean: ['-']
+- clean: ['~']
 
 - link:
     ~/.zshrc: zshrc
@@ -10,7 +10,13 @@
 
 - create:
     - ~/Work
-    - ~/hey/you/guys
 
-#- shell:
+- shell:
 #    - [git submodule updaate --init --recursive, Installing submodules]
+    - echo "hey you guys"
+    - sleep 2
+    - 
+      command: ./test.zsh
+      stdout: true
+      stderr: true
+ 
