@@ -3,3 +3,9 @@
 	email = 3742721+carolclark@users.noreply.github.com
 [init]
 	defaultBranch = main
+[diff]
+	tool = vimdiff3
+[merge]
+	tool = vimdiff3
+[difftool]
+	prompt = false
