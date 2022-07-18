@@ -30,5 +30,4 @@ function mkcd() {
 
 
 # ...and Other Surprises
-export HOMEBREW_GITHUB_API_TOKEN=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
 export HOMEBREW_GITHUB_API_TOKEN=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
