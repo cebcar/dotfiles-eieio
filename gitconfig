@@ -4,8 +4,8 @@
 [init]
 	defaultBranch = main
 [diff]
-	tool = Diffuse
+	tool = vimdiff
 [merge]
-	tool = Diffuse
+	tool = vimdiff
 [difftool]
 	prompt = false
