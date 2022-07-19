@@ -12,7 +12,9 @@ learning about dotfiles @ [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz)
 - .zshrc
 - Git (config ~and SSH~)
 - SSH
+- Homebrew
 
 ### TODO added by Carol
 - use AppleWatch to unlock Mac (General)
 - reduce brightness (Displays)
+- Mail: turn off new message sound
