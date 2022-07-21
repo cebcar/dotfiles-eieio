@@ -19,6 +19,8 @@ PROMPT='
 RPROMPT='%*'
 
 # Add Locations to $PATH Variable
+# Add VS Codium (codium)
+export PATH="$PATH:/Applications/vscodium.app/Contents/Resources/app/bin/codium"
 
 
 # Write Handy Functions
