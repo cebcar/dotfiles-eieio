@@ -18,3 +18,4 @@ learning about dotfiles @ [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz)
 - use AppleWatch to unlock Mac (General)
 - reduce brightness (Displays)
 - Mail: turn off new message sound
+- Codium: custom keybindings
