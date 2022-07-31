@@ -7,4 +7,5 @@ echo "\n=== Starting Homebrew Setup ===\n"
 brew install httpie
 brew install bat
 
-brew install vscodium
+brew install --no-quarantine vscodium
+brew install --no-quarantine alfred
