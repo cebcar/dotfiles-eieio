@@ -17,3 +17,4 @@ learning about dotfiles @ [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz)
 - reduce brightness (Displays)
 - Mail: turn off new message sound
 - Codium: custom keybindings
+- System Preferences &gt; Accessibility &gt; Security and Privacy &gt;: add Dropbox 
