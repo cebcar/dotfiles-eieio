@@ -11,6 +11,7 @@ learning about dotfiles @ [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz)
 - Trackpad (Three Finger Drag and Tap to Click)
 - Git (config ~and SSH~)
 - SSH
+- reassign Spotlight Search shortcut to Alfred search
 
 ### TODO added by Carol
 - use AppleWatch to unlock Mac (General)
