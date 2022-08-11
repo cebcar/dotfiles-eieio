@@ -11,6 +11,8 @@ brew "git"
 brew "httpie"
 # Application launcher and productivity software
 cask "alfred"
+# Free and open-source web browser
+cask "chromium"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
 # Git client focusing on productivity
