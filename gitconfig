@@ -7,5 +7,7 @@
 	tool = vimdiff
 [merge]
 	tool = vimdiff
+[pull]
+	rebase = false
 [difftool]
 	prompt = false
