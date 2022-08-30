@@ -8,7 +8,8 @@ echo "\n=== Starting Homebrew Setup ===\n"
 # brew install bat
 
 # brew install --no-quarantine vscodium
-# brew install --no-quarantine alfred 
+# brew install --no-quarantine alfred
+# brew install --no-quarantine gitkraken
 # brew install --no-quarantine zoom
 
 brew bundle --verbose
